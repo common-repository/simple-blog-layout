@@ -1,0 +1,63 @@
+span.date-top {
+    clear: both;
+    display: block;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+ul.post-meta {
+    text-align: center;
+}
+
+span.date-bot {
+    display: block;
+    font-weight: 600;
+}
+.cmnt-count span {
+    font-size: 14px;
+    vertical-align: bottom;
+}
+
+span.cmnt-count {
+    font-size: 14px;
+    vertical-align: text-bottom;
+	color:#edce04;
+}
+span.view-count{
+    font-size: 14px;
+    vertical-align: text-bottom;
+	color:#edce04;
+}
+.view-count span {
+    font-size: 14px;
+    vertical-align: bottom;
+}
+.asr-blog .single-blog-post {
+    overflow: hidden;
+	position:relative;
+    margin: 10px 0;
+}
+
+div.asr-blog h4,
+div.asr-blog ul{
+	padding:0;
+	margin:0;
+}
+.asr-blog img {
+    margin-bottom: 25px;
+}
+
+a.blog-btn {
+    color: #333;
+    background: #edce04;
+    padding: 0 8px;
+    margin-left: 6px;
+    vertical-align: text-bottom;
+}
+.pull-right{
+	float:right !important;
+}
+
+/*div.asr-blog span.dashicons {
+    vertical-align: text-top;
+}*/
